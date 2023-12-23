@@ -16,6 +16,21 @@
 		1A700A392B36BD3B0037B710 /* CoffeAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A382B36BD3B0037B710 /* CoffeAppTests.swift */; };
 		1A700A432B36BD3B0037B710 /* CoffeAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A422B36BD3B0037B710 /* CoffeAppUITests.swift */; };
 		1A700A452B36BD3B0037B710 /* CoffeAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A442B36BD3B0037B710 /* CoffeAppUITestsLaunchTests.swift */; };
+		1A700A522B36CFFD0037B710 /* RegistartionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A512B36CFFD0037B710 /* RegistartionViewController.swift */; };
+		1A700A542B36D0CC0037B710 /* Extensions + UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A532B36D0CC0037B710 /* Extensions + UIViewController.swift */; };
+		1A700A562B3713E90037B710 /* CoffeTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A552B3713E90037B710 /* CoffeTextField.swift */; };
+		1A700A5A2B37175C0037B710 /* RegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A592B37175C0037B710 /* RegistrationViewModel.swift */; };
+		1A700A5E2B3718B80037B710 /* EndpointProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A5D2B3718B80037B710 /* EndpointProtocol.swift */; };
+		1A700A602B3718E30037B710 /* NetworkResources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A5F2B3718E30037B710 /* NetworkResources.swift */; };
+		1A700A622B37190A0037B710 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A612B37190A0037B710 /* NetworkService.swift */; };
+		1A700A652B37192D0037B710 /* APPConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A642B37192D0037B710 /* APPConfig.swift */; };
+		1A700A6A2B371A550037B710 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1A700A6C2B371A550037B710 /* Localizable.strings */; };
+		1A700A702B371B9C0037B710 /* Extension + String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A6F2B371B9C0037B710 /* Extension + String.swift */; };
+		1A700A722B371BCB0037B710 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A712B371BCB0037B710 /* AppSettings.swift */; };
+		1A700A742B371C4B0037B710 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A732B371C4B0037B710 /* UserService.swift */; };
+		1A700A762B371C780037B710 /* UserEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A752B371C780037B710 /* UserEndpoint.swift */; };
+		1A700A782B371DF30037B710 /* Etension + Collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A772B371DF30037B710 /* Etension + Collection.swift */; };
+		1A700A7A2B371E280037B710 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A700A792B371E280037B710 /* UserModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +64,22 @@
 		1A700A3E2B36BD3B0037B710 /* CoffeAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoffeAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A700A422B36BD3B0037B710 /* CoffeAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeAppUITests.swift; sourceTree = "<group>"; };
 		1A700A442B36BD3B0037B710 /* CoffeAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1A700A512B36CFFD0037B710 /* RegistartionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistartionViewController.swift; sourceTree = "<group>"; };
+		1A700A532B36D0CC0037B710 /* Extensions + UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions + UIViewController.swift"; sourceTree = "<group>"; };
+		1A700A552B3713E90037B710 /* CoffeTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeTextField.swift; sourceTree = "<group>"; };
+		1A700A592B37175C0037B710 /* RegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewModel.swift; sourceTree = "<group>"; };
+		1A700A5D2B3718B80037B710 /* EndpointProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndpointProtocol.swift; sourceTree = "<group>"; };
+		1A700A5F2B3718E30037B710 /* NetworkResources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkResources.swift; sourceTree = "<group>"; };
+		1A700A612B37190A0037B710 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		1A700A642B37192D0037B710 /* APPConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APPConfig.swift; sourceTree = "<group>"; };
+		1A700A6B2B371A550037B710 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		1A700A6D2B371A760037B710 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		1A700A6F2B371B9C0037B710 /* Extension + String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + String.swift"; sourceTree = "<group>"; };
+		1A700A712B371BCB0037B710 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
+		1A700A732B371C4B0037B710 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		1A700A752B371C780037B710 /* UserEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserEndpoint.swift; sourceTree = "<group>"; };
+		1A700A772B371DF30037B710 /* Etension + Collection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Etension + Collection.swift"; sourceTree = "<group>"; };
+		1A700A792B371E280037B710 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +130,17 @@
 		1A700A202B36BD3A0037B710 /* CoffeApp */ = {
 			isa = PBXGroup;
 			children = (
-				1A700A212B36BD3A0037B710 /* AppDelegate.swift */,
+				1A700A6E2B371B490037B710 /* Extensions */,
+				1A700A632B3719220037B710 /* AppConfig */,
+				1A700A5B2B3718380037B710 /* ServiceLayer */,
+				1A700A572B3717440037B710 /* VieModels */,
 				1A700A232B36BD3A0037B710 /* SceneDelegate.swift */,
 				1A700A252B36BD3A0037B710 /* ViewController.swift */,
+				1A700A512B36CFFD0037B710 /* RegistartionViewController.swift */,
+				1A700A552B3713E90037B710 /* CoffeTextField.swift */,
 				1A700A272B36BD3A0037B710 /* Main.storyboard */,
 				1A700A2A2B36BD3B0037B710 /* Assets.xcassets */,
 				1A700A2C2B36BD3B0037B710 /* LaunchScreen.storyboard */,
-				1A700A2F2B36BD3B0037B710 /* Info.plist */,
 			);
 			path = CoffeApp;
 			sourceTree = "<group>";
@@ -125,6 +160,65 @@
 				1A700A442B36BD3B0037B710 /* CoffeAppUITestsLaunchTests.swift */,
 			);
 			path = CoffeAppUITests;
+			sourceTree = "<group>";
+		};
+		1A700A572B3717440037B710 /* VieModels */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A582B37174A0037B710 /* RegistrationVM */,
+			);
+			path = VieModels;
+			sourceTree = "<group>";
+		};
+		1A700A582B37174A0037B710 /* RegistrationVM */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A592B37175C0037B710 /* RegistrationViewModel.swift */,
+			);
+			path = RegistrationVM;
+			sourceTree = "<group>";
+		};
+		1A700A5B2B3718380037B710 /* ServiceLayer */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A5C2B3718A10037B710 /* UserService */,
+				1A700A612B37190A0037B710 /* NetworkService.swift */,
+				1A700A5F2B3718E30037B710 /* NetworkResources.swift */,
+				1A700A5D2B3718B80037B710 /* EndpointProtocol.swift */,
+			);
+			path = ServiceLayer;
+			sourceTree = "<group>";
+		};
+		1A700A5C2B3718A10037B710 /* UserService */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A732B371C4B0037B710 /* UserService.swift */,
+				1A700A752B371C780037B710 /* UserEndpoint.swift */,
+				1A700A792B371E280037B710 /* UserModel.swift */,
+			);
+			path = UserService;
+			sourceTree = "<group>";
+		};
+		1A700A632B3719220037B710 /* AppConfig */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A212B36BD3A0037B710 /* AppDelegate.swift */,
+				1A700A642B37192D0037B710 /* APPConfig.swift */,
+				1A700A2F2B36BD3B0037B710 /* Info.plist */,
+				1A700A6C2B371A550037B710 /* Localizable.strings */,
+				1A700A712B371BCB0037B710 /* AppSettings.swift */,
+			);
+			path = AppConfig;
+			sourceTree = "<group>";
+		};
+		1A700A6E2B371B490037B710 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1A700A532B36D0CC0037B710 /* Extensions + UIViewController.swift */,
+				1A700A6F2B371B9C0037B710 /* Extension + String.swift */,
+				1A700A772B371DF30037B710 /* Etension + Collection.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,6 +307,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 1A700A152B36BD390037B710;
 			productRefGroup = 1A700A1F2B36BD3A0037B710 /* Products */;
@@ -232,6 +327,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A700A2E2B36BD3B0037B710 /* LaunchScreen.storyboard in Resources */,
+				1A700A6A2B371A550037B710 /* Localizable.strings in Resources */,
 				1A700A2B2B36BD3B0037B710 /* Assets.xcassets in Resources */,
 				1A700A292B36BD3A0037B710 /* Main.storyboard in Resources */,
 			);
@@ -258,9 +354,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A700A762B371C780037B710 /* UserEndpoint.swift in Sources */,
+				1A700A742B371C4B0037B710 /* UserService.swift in Sources */,
+				1A700A782B371DF30037B710 /* Etension + Collection.swift in Sources */,
+				1A700A622B37190A0037B710 /* NetworkService.swift in Sources */,
+				1A700A542B36D0CC0037B710 /* Extensions + UIViewController.swift in Sources */,
+				1A700A722B371BCB0037B710 /* AppSettings.swift in Sources */,
+				1A700A702B371B9C0037B710 /* Extension + String.swift in Sources */,
+				1A700A562B3713E90037B710 /* CoffeTextField.swift in Sources */,
+				1A700A7A2B371E280037B710 /* UserModel.swift in Sources */,
 				1A700A262B36BD3A0037B710 /* ViewController.swift in Sources */,
+				1A700A5A2B37175C0037B710 /* RegistrationViewModel.swift in Sources */,
+				1A700A5E2B3718B80037B710 /* EndpointProtocol.swift in Sources */,
 				1A700A222B36BD3A0037B710 /* AppDelegate.swift in Sources */,
+				1A700A652B37192D0037B710 /* APPConfig.swift in Sources */,
+				1A700A522B36CFFD0037B710 /* RegistartionViewController.swift in Sources */,
 				1A700A242B36BD3A0037B710 /* SceneDelegate.swift in Sources */,
+				1A700A602B3718E30037B710 /* NetworkResources.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +423,15 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		1A700A6C2B371A550037B710 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A700A6B2B371A550037B710 /* en */,
+				1A700A6D2B371A760037B710 /* ru */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -321,6 +440,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -368,7 +488,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -384,6 +504,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -425,7 +546,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -445,11 +566,13 @@
 				DEVELOPMENT_TEAM = DDL9ZR3BK3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CoffeApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -473,11 +596,13 @@
 				DEVELOPMENT_TEAM = DDL9ZR3BK3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CoffeApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

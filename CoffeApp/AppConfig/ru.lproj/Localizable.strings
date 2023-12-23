@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  CoffeApp
+
+  Created by Anton Kovalkov on 23.12.2023.
+  
+*/
+
+//MARK: - API Errors
+"apiUserNotFound" = "Пользователь не найден";
+"apiUserAlredyExists" = "Пользователь уже добавлен";
+"apiUncorrectData" = "Некорректные данные";
+"apiServerError" = "Ошибка сервера";
+"apiDecode" = "Ошибка обработки данных";
+"apiValidationError" = "Ошибка валидации";
+"apiUnkmnown" = "Проблемы с сетью";
